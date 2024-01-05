@@ -1,4 +1,22 @@
-# belly-button-challenge
+# Java Script Challenge
+## Overview
+
+
+
+
+## Purpose
+
+
+
+![Alt text]([relative/path/to/image.png](https://github.com/Ani2587/belly-button-challenge/assets/17106097/497a55a7-cd38-4612-aa94-15fa61ef4162))
+
+
+
+
+![Alt text]([relative/path/to/image.png](https://github.com/Ani2587/belly-button-challenge/assets/17106097/a72429f6-99a4-4b83-baa4-e9e5d551a128))
+
+
+## Instructions 
 
 Please follow follwing steps to run the ccode succesfully:
     1. clone "belly-button-challenge" repo on your local machine.
