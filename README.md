@@ -7,13 +7,13 @@
 ## Purpose
 
 
-
-![Alt text]([relative/path/to/image.png](https://github.com/Ani2587/belly-button-challenge/assets/17106097/497a55a7-cd38-4612-aa94-15fa61ef4162))
-
+![image](https://github.com/Ani2587/belly-button-challenge/assets/17106097/3bc46688-17ba-4f16-8706-fbafeea5da18)
 
 
+![image](https://github.com/Ani2587/belly-button-challenge/assets/17106097/e906a790-feaf-4b86-8d75-b28923c93835)
 
-![Alt text]([relative/path/to/image.png](https://github.com/Ani2587/belly-button-challenge/assets/17106097/a72429f6-99a4-4b83-baa4-e9e5d551a128))
+
+
 
 
 ## Instructions 
