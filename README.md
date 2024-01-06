@@ -11,6 +11,7 @@ The dataset referred to above, is stored in JSON format. It has been downloaded 
 ## Instructions 
 
 Please follow following steps to run the ccode succesfully:
+
     1. clone "belly-button-challenge" repo on your local machine.
     2. open the code on VS Code.
     3. open index.html file and run the code by clicking Go Live option
